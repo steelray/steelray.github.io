@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'DIN Pro Cond';
+    src: url('DINPro-CondensedBold.eot');
+    src: url('DINPro-CondensedBold.eot?#iefix') format('embedded-opentype'),
+        url('DINPro-CondensedBold.woff2') format('woff2'),
+        url('DINPro-CondensedBold.woff') format('woff'),
+        url('DINPro-CondensedBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
